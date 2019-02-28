@@ -1,3 +1,3 @@
 # hello-world
-Mi primer repositorio
+Mi primer repositorio.
 Rumbo a la programación OMD.
